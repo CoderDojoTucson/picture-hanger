@@ -5,7 +5,7 @@ rotate(a = [90, 0, 0]) {
   }
 }
 translate([0, -67, 0]) {
-  cube(size = [25, 65.5, 9.5]);
+  cube(size = [25, 65.99, 9.99]);
 }
 translate([0, -67, 10.5]) {
   cube(size = [25, 70, 3]);
